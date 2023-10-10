@@ -47,4 +47,4 @@ This application assists a pancake store in calculating sales, costs, and profit
 
 1. **Clone the repository:**
 ```bash
-git clone [your-repository-link]
+git clone https://github.com/Johnmustcode/Pancake-Sales-Calculator
