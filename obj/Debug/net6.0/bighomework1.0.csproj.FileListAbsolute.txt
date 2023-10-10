@@ -1,0 +1,15 @@
+/Users/johnyin/Projects/bighomework1.0/bighomework1.0/bin/Debug/net6.0/bighomework1.0
+/Users/johnyin/Projects/bighomework1.0/bighomework1.0/bin/Debug/net6.0/bighomework1.0.deps.json
+/Users/johnyin/Projects/bighomework1.0/bighomework1.0/bin/Debug/net6.0/bighomework1.0.runtimeconfig.json
+/Users/johnyin/Projects/bighomework1.0/bighomework1.0/bin/Debug/net6.0/bighomework1.0.dll
+/Users/johnyin/Projects/bighomework1.0/bighomework1.0/bin/Debug/net6.0/bighomework1.0.pdb
+/Users/johnyin/Projects/bighomework1.0/bighomework1.0/obj/Debug/net6.0/bighomework1.0.csproj.AssemblyReference.cache
+/Users/johnyin/Projects/bighomework1.0/bighomework1.0/obj/Debug/net6.0/bighomework1.0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnyin/Projects/bighomework1.0/bighomework1.0/obj/Debug/net6.0/bighomework1.0.AssemblyInfoInputs.cache
+/Users/johnyin/Projects/bighomework1.0/bighomework1.0/obj/Debug/net6.0/bighomework1.0.AssemblyInfo.cs
+/Users/johnyin/Projects/bighomework1.0/bighomework1.0/obj/Debug/net6.0/bighomework1.0.csproj.CoreCompileInputs.cache
+/Users/johnyin/Projects/bighomework1.0/bighomework1.0/obj/Debug/net6.0/bighomework1.0.dll
+/Users/johnyin/Projects/bighomework1.0/bighomework1.0/obj/Debug/net6.0/refint/bighomework1.0.dll
+/Users/johnyin/Projects/bighomework1.0/bighomework1.0/obj/Debug/net6.0/bighomework1.0.pdb
+/Users/johnyin/Projects/bighomework1.0/bighomework1.0/obj/Debug/net6.0/bighomework1.0.genruntimeconfig.cache
+/Users/johnyin/Projects/bighomework1.0/bighomework1.0/obj/Debug/net6.0/ref/bighomework1.0.dll
